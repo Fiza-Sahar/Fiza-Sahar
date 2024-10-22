@@ -1,5 +1,4 @@
 
-    <img align="center" width="400" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQMZxkMiaMs__C_3LzrC5Viq-AlrcN5Qw6rzA&s" alt="Image" /><br>
 
 
 <h1 align="center">Hi 👋, I'm Fiza Sahar</h1><br>
