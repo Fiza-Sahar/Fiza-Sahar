@@ -1,13 +1,18 @@
 <h1 align="center">Hi 👋, I'm Fiza Sahar</h1>
-<h3 align="center">I'm Fiza Sahar, a passionate Software Engineer and Web Developer 👩‍💻, skilled in HTML5, CSS3, JavaScript, React.js, and more 🚀. Currently pursuing a BSSE at Jinnah University (2021-2024) 🎓, with added experience in mobile/web development from Saylani Mass I.T Training 📱. I love crafting user-friendly digital solutions, staying on top of tech trends, and excelling in project management and teamwork .</h3>
+<h3 align="center">
+A passionate Full-Stack Developer and Software Engineer 👩‍💻. 
+I have completed my Bachelor's in Software Engineering from Jinnah University 🎓. 
+Along with my degree, I successfully completed Mobile & Web Development Course from Saylani Mass I.T Training (SMIT)📱 
+and a MERN Stack Development course from Hazza Institute of Technology 💻. 
+I specialize in building user-centric digital solutions, staying updated with the latest tech innovations, and thriving in collaborative, project-driven environments.🌟.
+</h3>
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=fiza-sahar&label=Profile%20views&color=0e75b6&style=flat" alt="fiza-sahar" /> </p>
 
-- 🌱 I’m currently learning **MERN**
+- Currently enhancing my skills in **MERN Stack** while diving into **Artificial Intelligence (AI)**.
 
-- 💬 Ask me about **Html5, CSS3, Bootstrap, Tailwind, JavaScript, React.js**
-
-- 📫 How to reach me **fizasahar66@gmail.com**
+- How to reach me **fizasahar66@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
